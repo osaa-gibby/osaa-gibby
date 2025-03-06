@@ -2,7 +2,7 @@
 
 ### I'm Gibby Reynolds
 
-- 🏢 I work for the <a href="https://www.osaa.org" target="_blank">Oregon School Activities Association</a>
+- 🏢 I work for the [Oregon School Activities Association](https://www.osaa.org)
 - 🪪 My title is IT Systems Administrator
 - 🔭 I’m currently working on a new project with Laravel Cloud
 - 🌱 I’m currently learning how to use GitHub and Laravel Cloud
